@@ -1,0 +1,56 @@
+/* CSS Document */
+html{
+	background-color:#004040;
+	margin-top:2px;
+	margin-left:6em;
+	margin-right:6em;
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	font-style:normal;
+	color:#000000;
+	}
+body {
+	background-color:#CECDB5;
+	margin-left:2em;
+	margin-bottom:2em;
+	height:auto;
+	}
+	button{
+		padding:0.5%;
+		font-family:calibri;
+		width:20%;
+		cursor:pointer;
+		}
+h1,h2,h3,h4{
+color:#008040;
+text-transform:capitalize;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:16px;
+	}
+	#tblpart td{
+	width: 400px;
+	background-color:#B7B7FF;
+	}
+#details {
+	margin: 2%;
+	margin-right:6%;
+	background-color:#A8A8FF;
+	float:right;
+	}
+	#details #pid{
+		display:block;
+		}
+		.det,#pid,#dte{
+			font-family:calibri;
+			}
+			#pid,#dte {
+				font-weight:bold;
+				}
+				.det{
+					font-weight:normal;
+					font-family:Georgia, "Times New Roman", Times, serif;					}
+@media print{
+#btndiv{
+	display:none;
+	}
+}

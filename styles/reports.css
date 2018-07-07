@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen{
+table {
+	border-collapse:collapse;
+	margin-left:4em;
+	
+	}
+
+	td,th{
+		width:10%;
+		font-family:calibri;
+		}
+li {
+	list-style:none;
+	display:inline;
+	font-family:calibri;
+	}
+	ul {
+		text-align:center;
+		}
+		li a {
+			text-decoration:none;
+			}
+			#even{
+				background-color:#F99;
+				align:center;
+				}
+#rooms{
+	background-color:#CCCCCC;
+	width:70%;
+	margin-left:10em;
+	margin-right:2em;
+
+}
+#outerdiv{
+	margin-top:2%;
+	width:50%;
+	height:2opx;
+	border:solid 1px;
+	margin-left:10em;
+	}
+#innerdiv {
+	background-color:#006699;
+	width:40%;
+	text-align:right;
+	color:#ffffff;
+	font-weight:bold;
+	font-family:calibri;
+		height:20px;
+
+	}
+	#main {
+		height:100%;
+		}
+#controls{
+	padding: 2%;
+	text-align:center;
+	font-family:calibri;
+	font-family:calibri;
+	}
+	#controls select, #controls input {
+		border:solid 1px;
+		border-right:solid 2px;
+		border-bottom:solid 2px;
+		
+		}
+		#allocated li,#unallocated li {
+					display:block;
+					width:50%;
+					padding:0em;
+					margin-left:8em;
+					} 
+}
+@media print {
+	#controls{
+		display:none;
+	
+		}
+	ul {
+		display:none;
+		}
+		table {
+	border-collapse:collapse;
+	margin-left:5%;
+	}
+
+	td,th{
+		width:30%;
+		font-family:calibri;
+		}
+		#even{
+				background-color:#F00;
+				}
+				
+				
+	}

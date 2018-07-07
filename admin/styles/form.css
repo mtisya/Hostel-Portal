@@ -1,0 +1,88 @@
+/* CSS Document */
+html{
+	background-color:#D1E0DC;
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+	font-style:normal;
+	color:#000000;
+	}
+body {
+	background-color:#E6E6CC;
+	margin-left:2em;
+	margin-right:2em;
+	margin-bottom:2em;
+	}
+#regform{
+	width:45%;
+	height:auto;
+	float:left;
+	margin-left:2em;
+	background-color:#E0E0E0;
+}
+table{
+	border-collapse:collapse;
+	}
+th {
+	width:40%;
+	}
+	h2,h3,h4{
+	color:#008040;
+	text-transform:capitalize;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+		}
+h1{
+	font-family:calibri;
+	font-size:1.5em;
+	margin-left:2em;
+	display:table-caption;
+	float:right;
+	}
+.links {
+	margin-left:1.4em;
+	margin-top:4em;
+	text-decoration:none;
+	font-family:calibri;
+	font-weight:bold;
+	color:teal;
+	font-size:1.5em;
+	}
+#linkcont{
+	overflow:scroll;
+	}
+#tablediv{
+width:95%;
+height:10%;
+margin:2em;
+border:#A7A7A7;
+background-color:#CECECE;
+}
+li {
+	text-decoration:none;
+	list-style:none;
+	display:block;		
+	}
+	ul {
+		text-align:right;
+		display:table;
+		list-style:none;
+		}
+		li a {
+			text-decoration:none;
+			list-style:none;
+			display:list-item;			
+			}
+			#even{
+				background-color:#C6C6FF;
+				}
+				#odd{
+				background-color:#C6C6FF;
+				}
+
+#footer{
+		background-color:#FFFFFF;
+		width:auto;
+		height:0.5em;
+		text-align:center;
+		margin-left:0em;
+}

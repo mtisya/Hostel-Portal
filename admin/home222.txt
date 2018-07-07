@@ -1,0 +1,30 @@
+﻿Started: 10-Jun-14 12:29 PM
+
+admin\home.php - Put operation successful
+admin\menu\menu.css - same - not transferred
+admin\menu\images\left.png - same - not transferred
+admin\menu\images\ie-left.png - same - not transferred
+admin\menu\images\right.png - same - not transferred
+admin\menu\images\ie-right.png - same - not transferred
+admin\menu\images\submenu-bottom.png - same - not transferred
+admin\menu\images\selected-right.png - same - not transferred
+admin\menu\images\selected-left.png - same - not transferred
+admin\menu\images\submenu-top.png - same - not transferred
+admin\menu\images\ie-submenu-top.gif - same - not transferred
+admin\menu\images\submenu-selected-bottom.png - same - not transferred
+admin\menu\images\submenu-selected-top.png - same - not transferred
+admin\menu\images\submenu-pointer-bottom.gif - same - not transferred
+admin\menu\images\submenu-pointer-top.png - same - not transferred
+admin\menu\images\submenu-pointer-selected-bottom.png - same - not transferred
+admin\menu\images\subsubmenu-top.png - same - not transferred
+admin\js\jquery.js - same - not transferred
+admin\menu\menu.js\menu.js - error occurred - An error occurred - cannot put menu.js.  The system cannot find the path specified.  
+
+File activity incomplete. 1 file(s) or folder(s) were not completed.
+Files updated: 1
+Files skipped: 17
+
+Files with errors: 1
+admin\menu\menu.js\menu.js
+
+Finished: 10-Jun-14 12:29 PM

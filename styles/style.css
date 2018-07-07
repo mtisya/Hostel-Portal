@@ -1,0 +1,55 @@
+body{
+	background-color:#66ff99);
+
+}
+h1{
+	text-decoration:blink;
+	color: #000;
+}
+p{
+	color:#000000;
+	font-size:21px;
+	width:40%;
+	
+	}
+#header{
+	background:#FCC;
+	width:100%;
+	
+}
+#header1{
+	background:#aaa;
+	
+	
+}
+#leftcol{
+	background:#FF6699;
+	float:left;
+ 	
+	
+}
+#rightcol{
+	background:#aaa;
+	float:right;
+ 	width:30%;
+	height:300px;
+	
+}
+#rightcol2{
+	background:#aaa;
+	float:left;
+ 	width:50%;
+	height:350px;
+	
+}
+#content{
+	float:left;
+ 	width:40%;
+	height:100px;
+
+}
+#footer{
+	background:#aba;
+	clear:both;
+	width:100%;
+}

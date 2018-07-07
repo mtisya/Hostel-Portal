@@ -1,0 +1,161 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	background-color:#FFF;
+	margin-left:6em;
+	margin-right:6em;
+	margin-bottom:6em;
+	
+	}
+#body {
+	background-color:#C0C0C0;
+	font-size: 16px;
+	margin-top:0.5em;
+	
+	
+	}
+.header div ul#navigation {
+	margin: 52px 0 0 12px;
+	list-style: none;
+	padding: 0;
+}
+.header div ul#navigation li {
+	height:22px;
+	margin-bottom:25px;
+}
+.header div ul#navigation li.selected {
+	background:url(../images/left-brace.gif) no-repeat left center;
+	line-height:21px;
+	margin-top:23px;
+	padding-left:2px;
+}
+.header div ul#navigation li.selected a {
+	
+	background:url(../images/right-brace.gif) no-repeat right center;
+	color:#00ffeb;
+	font-weight: bold;
+	text-shadow: 0 -1px 1px #000000;
+	padding: 2px 15px 2px 12px;
+}
+.header div ul#navigation li a {
+	color:#FFFEFF;
+	font-size:21px;
+	padding-left:12px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #410E5D;
+	outline: none;
+}
+.header div ul#navigation li a:hover {
+	color:#00FFEB;
+}
+
+
+/*...................................*/
+
+#mainfield{
+	width:600px;
+	height:300px;
+	background-color:#99C;
+	margin-left:25%;
+	margin-right:25%;
+	}
+	label{
+	    margin-left:2%;
+	    font-size:18px;
+	    font-weight:bold;
+		}
+	[type='submit']{
+		cursor:pointer;
+		}
+	input,select{
+		width:60%;
+		margin-bottom:2%;
+		margin-left:2%;
+		font-size:24px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		height:30px;
+		border-radius:6px;
+		box-shadow:2px 2px 1px #841f27;
+		margin-right:1%;
+		}
+	#notify {
+		background-color:KHAKI;
+		color: #841f27;
+		text-align:center;
+		font-family:calibri;
+		margin-left:2%;
+		margin-right:2%;
+		font-size:18px;
+		font-weight:bold;
+		}
+#regform{
+	
+	border:solid 1px;
+	width:100%;
+	
+	background-color:#CCC;
+	}
+	#formdiv{
+		border:solid 1px ;
+		border-radius:8px;
+		height:85%;
+				
+		}
+#btndiv {
+	border:none;
+	margin-top:4%;
+	margin-bottom:2%;
+	margin-right:2%;
+	margin-left:2%;
+	
+			}
+			button{
+				padding:0.5em;
+				font-family:calibri;
+				width:30%;
+				cursor:pointer;
+				font-weight:bold;
+				}
+
+label{
+	font-family:calibri;
+	display:block;
+	margin-top:2%;
+	}
+	#regform form{
+			background-color:#fff;
+
+		}
+		 legend{
+			width:100%;
+			color:#fff;
+			background-color:#808040;
+			text-align:center;
+			font-family:calibri;
+			font-weight:bold;
+			marquee-direction:!important;
+			}
+...........................................
+#footer {
+	clear: both;
+	padding: 20px 0;
+	background: #FFEA6F;
+	border-top: 3px solid #E8AD35;
+	text-align: center;
+	font-size: smaller;
+	color: #E8AD35;
+}
+#header {
+	width: 50px;
+	height: 50px;
+	margin:2%;
+	background-color:#0CF;
+
+}
+#gallery {
+	clear: both;
+	width: 1000px;
+	height: 300px;
+	margin: 0 auto;
+	background-color:#0CF
+	}

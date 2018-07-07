@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+#unallocated li, #allocated li {
+	text-align:left;
+	align:center;
+	
+	}
+#even {
+	background-color:#066;
+	}
